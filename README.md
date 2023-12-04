@@ -1,6 +1,7 @@
 # offlinepost
 > 读过的安全文章离线归档，资源均来源于互联网，便于离线场景使用
 
++ [#BrokenSesame_ Accidental ‘write’ permissions to private registry allowed potential RCE to Alibaba Cloud Database Services _ Wiz Blog/Ronen Shustin, Shir Tamari](https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r) - 私有镜像仓库写权限导致阿里云数据库服务RCE
 + [Java Zip Slip漏洞案例分析及实战挖掘 - 先知/TGAO](http://xz.aliyun.com/t/12081)
 + [文件解压引发的Getshell - freebuf/安全狗safedog](https://www.freebuf.com/articles/others-articles/229928.html)
 + [云原生后门扫描探索与实现 - 微信公众号/在酒吧喝牛奶的牛仔](https://mp.weixin.qq.com/s/jxDPMYXQMMHcEf2Gf5o62Q)
