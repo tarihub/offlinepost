@@ -1,6 +1,7 @@
 # offlinepost
 > 读过的安全文章离线归档，资源均来源于互联网，便于离线场景使用
 
++ [CVE-2023-5044：NGINX Ingress再曝注入漏洞](https://mp.weixin.qq.com/s/a_87y1LByZfiAlJzJlEtJw)
 + [Zip Slip - snyk](https://res.cloudinary.com/snyk/image/upload/v1528192501/zip-slip-vulnerability/technical-whitepaper.pdf) - #压缩包安全
 + [#BrokenSesame_ Accidental ‘write’ permissions to private registry allowed potential RCE to Alibaba Cloud Database Services - Wiz Blog/Ronen Shustin, Shir Tamari](https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r) - 私有镜像仓库写权限导致阿里云数据库服务RCE
 + [Java Zip Slip漏洞案例分析及实战挖掘 - 先知/TGAO](http://xz.aliyun.com/t/12081) - #压缩包安全
