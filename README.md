@@ -4,7 +4,7 @@
 + [内存取证volatility工具命令详解 - 微信公众号/渗透测试研究中心](https://mp.weixin.qq.com/s/70iCvw_5RExux2Kpk__SAQ)
 + [内存取证-volatility工具的使用 （史上更全教程，更全命令） - CSDN/路baby](https://blog.csdn.net/m0_68012373/article/details/127419463)
 + [内存取证常见例题思路方法-volatility (没有最全 只有更全) - CSDN/路baby](https://blog.csdn.net/m0_68012373/article/details/129038773)
-+ [CVE-2023-5044：NGINX Ingress再曝注入漏洞](https://mp.weixin.qq.com/s/a_87y1LByZfiAlJzJlEtJw)
++ [CVE-2023-5044：NGINX Ingress再曝注入漏洞](https://mp.weixin.qq.com/s/a_87y1LByZfiAlJzJlEtJw) - [POC/EXP cloud-Xolt/CVE](https://github.com/cloud-Xolt/CVE)
 + [Zip Slip - snyk](https://res.cloudinary.com/snyk/image/upload/v1528192501/zip-slip-vulnerability/technical-whitepaper.pdf) - #压缩包安全
 + [#BrokenSesame_ Accidental ‘write’ permissions to private registry allowed potential RCE to Alibaba Cloud Database Services - Wiz Blog/Ronen Shustin, Shir Tamari](https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r) - 私有镜像仓库写权限导致阿里云数据库服务RCE
 + [Java Zip Slip漏洞案例分析及实战挖掘 - 先知/TGAO](http://xz.aliyun.com/t/12081) - #压缩包安全
