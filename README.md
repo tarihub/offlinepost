@@ -1,6 +1,7 @@
 # offlinepost
 > 读过的安全文章离线归档，资源均来源于互联网，便于离线场景使用
 
++ [JavaWeb 内存马一周目通关攻略 _ 素十八](https://su18.org/post/memory-shell/) - [举例代码仓库 - su18/MemoryShell](https://github.com/su18/MemoryShell)
 + [理解serialVersionUID是什么？有什么用？如何生成？](https://www.cnblogs.com/xuxinstyle/p/11394358.html)
 + [CISCN 2021 ezj4va与Fix思路](https://www.anquanke.com/post/id/249651#h2-0) - Java反序列化修复方案，Hook resolveClass 和 修改suid(serialVersionUID) [修改suid工具](https://github.com/GraxCode/JByteMod-Beta)
 + [Shiro 反序列化漏洞利用工具编写思路 - 微信公众号/奇安信 CERT](https://mp.weixin.qq.com/s/WDmj4-2lB-hlf_Fm_wDiOg) - 手动构造 shiro 反序列化打法，并绕过 Payload长度限制 和 SUID不匹配 问题
