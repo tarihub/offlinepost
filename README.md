@@ -1,6 +1,7 @@
 # offlinepost
 > 读过的安全文章离线归档，资源均来源于互联网，便于离线场景使用
 
++ [HTTP慢速拒绝服务攻击（Slow HTTP Dos） - 春告鳥 - 博客园](https://www.cnblogs.com/Cl0ud/p/13409171.html) - slow http/slowhttp
 + [JavaWeb 内存马一周目通关攻略 _ 素十八](https://su18.org/post/memory-shell/) - [举例代码仓库 - su18/MemoryShell](https://github.com/su18/MemoryShell)
 + [理解serialVersionUID是什么？有什么用？如何生成？](https://www.cnblogs.com/xuxinstyle/p/11394358.html)
 + [CISCN 2021 ezj4va与Fix思路](https://www.anquanke.com/post/id/249651#h2-0) - Java反序列化修复方案，Hook resolveClass 和 修改suid(serialVersionUID) [修改suid工具](https://github.com/GraxCode/JByteMod-Beta)
