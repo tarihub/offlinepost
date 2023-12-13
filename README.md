@@ -1,6 +1,7 @@
 # offlinepost
 > 读过的安全文章离线归档，资源均来源于互联网，便于离线场景使用
 
++ [74 Methods for Privilege Escalation (Part 2) - hadess](https://hadess.io/74-methods-for-privilege-escalationpart-2/) / [43 Methods for Privilege Escalation (Part 3)](https://hadess.io/43-methods-for-privilege-escalation-part-3/) - Windows 和 Linux 的117种提权方法
 + [HTTP慢速拒绝服务攻击（Slow HTTP Dos） - 春告鳥 - 博客园](https://www.cnblogs.com/Cl0ud/p/13409171.html) - slow http/slowhttp
 + [JavaWeb 内存马一周目通关攻略 _ 素十八](https://su18.org/post/memory-shell/) - [举例代码仓库 - su18/MemoryShell](https://github.com/su18/MemoryShell)
 + [理解serialVersionUID是什么？有什么用？如何生成？](https://www.cnblogs.com/xuxinstyle/p/11394358.html)
@@ -15,7 +16,7 @@
 + [Java Zip Slip漏洞案例分析及实战挖掘 - 先知/TGAO](http://xz.aliyun.com/t/12081) - #压缩包安全
 + [文件解压引发的Getshell - freebuf/安全狗safedog](https://www.freebuf.com/articles/others-articles/229928.html) - #压缩包安全
 + [云原生后门扫描探索与实现 - 微信公众号/在酒吧喝牛奶的牛仔](https://mp.weixin.qq.com/s/jxDPMYXQMMHcEf2Gf5o62Q)
-+ [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances - unit42/Yuval Avrahami](https://unit42.paloaltonetworks.com/azure-container-instances/) - Azure多租户容器逃逸
++ [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances - unit42/Yuval Avrahami](https://unit42.paloaltonetworks.com/azure-container-instances/) - Azure多租户容器逃逸 [文章视频1](./Azurescape%20Part%201%20-%20From%20Malicious%20Container%20to%20Full-Cluster%20Admin-YfZBwKP18CQ.mp4)、[文章视频2](./Azurescape%20Part%202%20-%20Another%20Route%20to%20Admin%20–%20Bridge%20Server-Side%20Request%20Forgery%20(SSRF)-7Alea_9oZgU.mp4)
 + [Unveiling a Critical Authentication Bypass Vulnerability in Google Cloud API Gateway - securingbits/Panagiotis Vasilikos](https://securingbits.com/bypassing-google-cloud-api-gateway) - 谷歌云API网关身份绕过
 + [CTF-python pickle反序列化 - 博客园/sijidou](https://www.cnblogs.com/sijidou/p/16305695.html)
 + [[CISCN2019 华北赛区 Day1 Web2]ikun-1|python反序列化 - 博客园/upfine](https://www.cnblogs.com/upfine/p/16638147.html)
