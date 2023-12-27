@@ -1,6 +1,8 @@
 # offlinepost
 > 读过的安全文章离线归档，资源均来源于互联网，便于离线场景使用
 
++ [CVE-2021-21287: 容器与云的碰撞——一次对MinIO的测试 - PHITHON](https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html) SSRF Path 可控 POST请求 / SSRF 攻击 Docker API
++ [Redis主从复制RCE影响分析 - FreeBuf网络安全行业门户/山石网科](https://www.freebuf.com/articles/web/325035.html) 功能比较全的工具：[Dliv3/redis-rogue-server](https://github.com/Dliv3/redis-rogue-server)
 + [74 Methods for Privilege Escalation (Part 2) - hadess](https://hadess.io/74-methods-for-privilege-escalationpart-2/) / [43 Methods for Privilege Escalation (Part 3)](https://hadess.io/43-methods-for-privilege-escalation-part-3/) - Windows 和 Linux 的117种提权方法
 + [HTTP慢速拒绝服务攻击（Slow HTTP Dos） - 春告鳥 - 博客园](https://www.cnblogs.com/Cl0ud/p/13409171.html) - slow http/slowhttp
 + [JavaWeb 内存马一周目通关攻略 _ 素十八](https://su18.org/post/memory-shell/) - [举例代码仓库 - su18/MemoryShell](https://github.com/su18/MemoryShell)
