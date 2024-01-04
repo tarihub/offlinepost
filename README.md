@@ -1,6 +1,7 @@
 # offlinepost
 > 读过的安全文章离线归档，资源均来源于互联网，便于离线场景使用
 
++ [第18篇：fastjson反序列化漏洞区分版本号的方法总结](https://mp.weixin.qq.com/s/5mO1L5o8j_m6RYM6nO-pAA)
 + [2023 37C3 Potluck CTF - Hungry Helmsman](./37C3%20Potluck%20CTF%20-%20Hungry%20Helmsman.md) - k8s ctf 题目 考点主要是 externalIP，因为 pdf 保存出来代码不全，所以手动整了个 md
 + [CVE-2021-21287: 容器与云的碰撞——一次对MinIO的测试 - PHITHON](https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html) SSRF Path 可控 POST请求 / SSRF 攻击 Docker API
 + [Redis主从复制RCE影响分析 - FreeBuf网络安全行业门户/山石网科](https://www.freebuf.com/articles/web/325035.html) 功能比较全的工具：[Dliv3/redis-rogue-server](https://github.com/Dliv3/redis-rogue-server)
