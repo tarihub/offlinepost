@@ -3,16 +3,14 @@
 
 🏷️ 标签 ：[#云安全](./云安全/) [#Java安全](./Java安全/) [#Python安全](./Python安全/) [#中间件安全](./中间件安全/) [#公共组件安全](./公共组件安全/) [#内网安全](./内网安全/) [#协议安全](./协议安全/) [#应急响应](./应急响应/)
 
-## 索引
-
-### 2024
+## 2024
 + [原文传送门](https://www.paloaltonetworks.com/apps/pan/public/downloadResource?pagePath=/content/pan/en_US/resources/whitepapers/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms) | [本仓库归档](./云安全/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms.pdf) | kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms 常见 k8s 引擎RBAC权限滥用调查报告 [#云安全](./云安全/)
 
 + [原文传送门]https://mp.weixin.qq.com/s/5mO1L5o8j_m6RYM6nO-pAA) | [本仓库归档](./Java安全/第18篇：fastjson反序列化漏洞区分版本号的方法总结.pdf) | 第18篇：fastjson反序列化漏洞区分版本号的方法总结 [#Java安全](./Java安全/)
 
 + [原文传送门](https://www.rayanle.cat/potluckctf-2023-hungry-helmsman/) | [本仓库归档](./云安全/37C3%20Potluck%20CTF%20-%20Hungry%20Helmsman.md) | 2023 37C3 Potluck CTF - Hungry Helmsman - k8s ctf 题目 考点主要是 externalIP，因为 pdf 保存出来代码不全，所以手动整了个 md [#云安全](./云安全/)
 
-### 2023
+## 2023
 + [原文传送门](https://www.leavesongs.com/PENETRATION/the-collision-of-containers-and-the-cloud-pentesting-a-MinIO.html) | [本仓库归档](./云安全/CVE-2021-21287_%20容器与云的碰撞——一次对MinIO的测试%20_%20离别歌.pdf) | CVE-2021-21287: 容器与云的碰撞——一次对MinIO的测试 - PHITHON SSRF Path 可控 POST请求 / SSRF 攻击 Docker API [#云安全](./云安全/)
 
 + [原文传送门](https://www.freebuf.com/articles/web/325035.html) | [本仓库归档](./中间件安全/Redis主从复制RCE影响分析%20-%20FreeBuf网络安全行业门户.pdf) | Redis主从复制RCE影响分析 - FreeBuf网络安全行业门户/山石网科 功能比较全的工具：[Dliv3/redis-rogue-server](https://github.com/Dliv3/redis-rogue-server) [#中间件安全](./中间件安全/)
