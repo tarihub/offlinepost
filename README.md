@@ -3,10 +3,18 @@
 
 🏷️ 标签 ：[#云安全](./云安全/) [#Java安全](./Java安全/) [#Python安全](./Python安全/) [#中间件安全](./中间件安全/) [#公共组件安全](./公共组件安全/) [#内网安全](./内网安全/) [#协议安全](./协议安全/) [#应急响应](./应急响应/)
 
+模板: [原文传送门]() | [本仓库归档]() | 
+
 ## 2024
++ [原文传送门](https://landgrey.me/blog/22/) | [本仓库归档](./Java安全/Spring%20Boot%20Fat%20Jar%20写文件漏洞到稳定%20RCE%20的探索.pdf) | Spring Boot Fat Jar 写文件漏洞到稳定 RCE 的探索 [#Java安全](./Java安全/)
+
++ [原文传送门](https://blog.champtar.fr/K8S_MITM_LoadBalancer_ExternalIPs/) | [本仓库归档](./云安全/Kubernetes%20man%20in%20the%20middle%20using%20LoadBalancer%20or%20ExternalIPs%20(CVE-2020-8554)%20_%20blog.champtar.fr.pdf) | Kubernetes man in the middle using LoadBalancer or ExternalIPs (CVE-2020-8554) [#云安全](./云安全/)
+
++ [原文传送门](https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/) | [本仓库归档](./云安全/Container%20Escape%20to%20Shadow%20Admin_%20GKE%20Autopilot%20Vulnerabilities.pdf) | [文章视频1](./云安全/static/GKE%20Autopilot%20-%20Pod%20Masquerading%20as%20Datadog%20Agent-0cZJklJxTQk.mp4) | [文章视频2](./云安全/static/GKE%20Autopilot%20-%20Unrestricted%20Administrator%20and%20Invisible%20Backdoor-4Dddhk1QclY.mp4) | Container Escape to Shadow Admin GKE Autopilot Vulnerabilities - Unit42: GKE Autopilot 从容器逃逸到接管k8s集群并持久化后门 [#云安全](./云安全/)
+
 + [原文传送门](https://www.paloaltonetworks.com/apps/pan/public/downloadResource?pagePath=/content/pan/en_US/resources/whitepapers/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms) | [本仓库归档](./云安全/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms.pdf) | kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms 常见 k8s 引擎RBAC权限滥用调查报告 [#云安全](./云安全/)
 
-+ [原文传送门]https://mp.weixin.qq.com/s/5mO1L5o8j_m6RYM6nO-pAA) | [本仓库归档](./Java安全/第18篇：fastjson反序列化漏洞区分版本号的方法总结.pdf) | 第18篇：fastjson反序列化漏洞区分版本号的方法总结 [#Java安全](./Java安全/)
++ [原文传送门](https://mp.weixin.qq.com/s/5mO1L5o8j_m6RYM6nO-pAA) | [本仓库归档](./Java安全/第18篇：fastjson反序列化漏洞区分版本号的方法总结.pdf) | 第18篇：fastjson反序列化漏洞区分版本号的方法总结 [#Java安全](./Java安全/)
 
 + [原文传送门](https://www.rayanle.cat/potluckctf-2023-hungry-helmsman/) | [本仓库归档](./云安全/37C3%20Potluck%20CTF%20-%20Hungry%20Helmsman.md) | 2023 37C3 Potluck CTF - Hungry Helmsman - k8s ctf 题目 考点主要是 externalIP，因为 pdf 保存出来代码不全，所以手动整了个 md [#云安全](./云安全/)
 
@@ -46,7 +54,7 @@
 
 + [原文传送门](https://mp.weixin.qq.com/s/jxDPMYXQMMHcEf2Gf5o62Q) | [本仓库归档](./云安全/云原生后门扫描探索与实现.pdf) | 云原生后门扫描探索与实现 - 微信公众号/在酒吧喝牛奶的牛仔 [#云安全](./云安全/)
 
-+ [原文传送门](https://unit42.paloaltonetworks.com/azure-container-instances/) | [本仓库归档](./云安全/Cross-Account%20Container%20Takeover%20in%20Azure%20Container%20Instances.pdf) | [文章视频1](./Azurescape%20Part%201%20-%20From%20Malicious%20Container%20to%20Full-Cluster%20Admin-YfZBwKP18CQ.mp4) | [文章视频2](./Azurescape%20Part%202%20-%20Another%20Route%20to%20Admin%20–%20Bridge%20Server-Side%20Request%20Forgery%20(SSRF)-7Alea_9oZgU.mp4) | Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances - unit42/Yuval Avrahami - Azure多租户容器逃逸  [#云安全](./云安全/)
++ [原文传送门](https://unit42.paloaltonetworks.com/azure-container-instances/) | [本仓库归档](./云安全/Cross-Account%20Container%20Takeover%20in%20Azure%20Container%20Instances.pdf) | [文章视频1](./云安全/static/Azurescape%20Part%201%20-%20From%20Malicious%20Container%20to%20Full-Cluster%20Admin-YfZBwKP18CQ.mp4) | [文章视频2](./云安全/static/Azurescape%20Part%202%20-%20Another%20Route%20to%20Admin%20–%20Bridge%20Server-Side%20Request%20Forgery%20(SSRF)-7Alea_9oZgU.mp4) | Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances - unit42/Yuval Avrahami - Azure多租户容器逃逸  [#云安全](./云安全/)
 
 + [原文传送门](https://securingbits.com/bypassing-google-cloud-api-gateway) | [本仓库归档](./云安全/ESPv2CVE-2023-30845-Unveiling%20a%20Critical%20Authentication%20Bypass%20Vulnerability%20in%20Google%20Cloud%20API%20Gateway.pdf) |Unveiling a Critical Authentication Bypass Vulnerability in Google Cloud API Gateway - securingbits/Panagiotis Vasilikos - 谷歌云API网关身份绕过 [#云安全](./云安全/)
 
