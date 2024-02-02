@@ -7,7 +7,7 @@
 
 ## 2024
 + [原文传送门](https://intezer.com/blog/cloud-security/royal-flush-privilege-escalation-vulnerability-in-azure-functions/) | [本仓库归档](./云安全/Privilege%20Escalation%20Vulnerability%20in%20Azure%20Functions%20-%20Intezer.pdf) | Azure 云函数的权限提升漏洞 (非root用户特权容器 容器逃逸) [#云安全](./云安全/)
-+ [原文传送门](https://fun0nydg.github.io/2021/06/19/The-role-of-debugfs-in-container-escape.html) | [本仓库归档](./云安全/Fun0nydg的博客%20-%20个人随笔.pdf) | [fadv.c](./云安全/src/c/fadv.c) | debugfs在容器逃逸中的作用 - 以及利用 devices.allow 写文件(网上基本上都是读完就完事了，没有关于写的利用) [#云安全](./云安全/)
++ [原文传送门](https://fun0nydg.github.io/2021/06/19/The-role-of-debugfs-in-container-escape.html) | [本仓库归档](./云安全/debugfs在容器逃逸中的作用.pdf) | [fadv.c](./云安全/src/c/fadv.c) | debugfs在容器逃逸中的作用 - 以及利用 devices.allow 写文件(网上基本上都是读完就完事了，没有关于写的利用) [#云安全](./云安全/)
 + [原文传送门](https://landgrey.me/blog/22/) | [本仓库归档](./Java安全/Spring%20Boot%20Fat%20Jar%20写文件漏洞到稳定%20RCE%20的探索.pdf) | Spring Boot Fat Jar 写文件漏洞到稳定 RCE 的探索 [#Java安全](./Java安全/)
 
 + [原文传送门](https://blog.champtar.fr/K8S_MITM_LoadBalancer_ExternalIPs/) | [本仓库归档](./云安全/Kubernetes%20man%20in%20the%20middle%20using%20LoadBalancer%20or%20ExternalIPs%20(CVE-2020-8554)%20_%20blog.champtar.fr.pdf) | Kubernetes man in the middle using LoadBalancer or ExternalIPs (CVE-2020-8554) [#云安全](./云安全/)
