@@ -6,6 +6,8 @@
 📝 模板 ：[原文传送门]() | [本仓库归档]() | 
 
 ## 2024
++ [原文传送门](https://github.com/vulhub/vulhub/tree/master/influxdb/CVE-2019-20933) | [本仓库归档](./中间件安全/InfluxDB%20JWT%20认证绕过漏洞/README.zh-cn.md) | InfluxDB JWT 认证绕过漏洞（CVE-2019-20933）[#中间件安全](./中间件安全/)
+
 + [原文传送门](https://www.leavesongs.com/PENETRATION/glassfish-arbitrary-file-reading-vulnerability.html) | [本仓库归档](./Web安全/GlassFish%20目录穿越漏洞测试过程%20_%20离别歌.pdf) | Postgresql 渗透总结 - 跳跳糖 [#中间件安全](./中间件安全/)
 
 + [原文传送门](https://www.leavesongs.com/PENETRATION/glassfish-arbitrary-file-reading-vulnerability.html) | [本仓库归档](./Web安全/GlassFish%20目录穿越漏洞测试过程%20_%20离别歌.pdf) | GlassFish 目录穿越漏洞测试过程 - 离别歌 [#Web安全](./Web安全/)
