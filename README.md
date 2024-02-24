@@ -7,22 +7,30 @@
 
 ## 2024
 + [原文传送门](https://www.leavesongs.com/PENETRATION/glassfish-arbitrary-file-reading-vulnerability.html) | [本仓库归档](./Web安全/GlassFish%20目录穿越漏洞测试过程%20_%20离别歌.pdf) | Postgresql 渗透总结 - 跳跳糖 [#中间件安全](./中间件安全/)
-+ [原文传送门](https://www.leavesongs.com/PENETRATION/glassfish-arbitrary-file-reading-vulnerability.html) | [本仓库归档](./Web安全/GlassFish%20目录穿越漏洞测试过程%20_%20离别歌.pdf) | GlassFish 目录穿越漏洞测试过程 - 离别歌 [#Web安全](./Web安全/)
-+ [原文传送门](https://mp.weixin.qq.com/s/fcuKNfLXiFxWrIYQPq7OCg) | [本仓库归档](./Web安全/UTF-8%20Overlong%20Encoding导致的安全问题.pdf) | UTF-8 Overlong Encoding导致的安全问题 - 代码审计 [#Web安全](./Web安全/)
-+ [原文传送门](https://mp.weixin.qq.com/s/ul3-Hman7TJwlDDKGBoTXg) | [本仓库归档](./Web安全/Grafana漏洞利用清单.pdf) | 2022 - 2022 Grafana漏洞利用清单 [#Web安全](./Web安全/)
-+ [原文传送门](https://l3yx.github.io/2023/08/06/Grafana-%E5%8E%86%E5%8F%B2%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/) | [本仓库归档](./Web安全/Grafana%20历史漏洞分析%20_%20l3yx's%20blog.pdf) | 2021 - 2022 Grafana 历史漏洞分析 [#Web安全](./Web安全/)
-+ [原文传送门](https://start.paloaltonetworks.com/rs/531-OCS-018/images/Unit42_ASM_Threat_Report_2023.pdf) | [本仓库归档](./云安全/Unit42_ASM_Threat_Report_2023.pdf) | 2023 Unit42 ASM Threat Report [#云安全](./云安全/)
-+ [原文传送门](https://intezer.com/blog/cloud-security/royal-flush-privilege-escalation-vulnerability-in-azure-functions/) | [本仓库归档](./云安全/Privilege%20Escalation%20Vulnerability%20in%20Azure%20Functions%20-%20Intezer.pdf) | Azure 云函数的权限提升漏洞 (非root用户特权容器 容器逃逸) [#云安全](./云安全/)
-+ [原文传送门](https://fun0nydg.github.io/2021/06/19/The-role-of-debugfs-in-container-escape.html) | [本仓库归档](./云安全/debugfs在容器逃逸中的作用.pdf) | [fadv.c](./云安全/src/c/fadv.c) | debugfs在容器逃逸中的作用 - 以及利用 devices.allow 写文件(网上基本上都是读完就完事了，没有关于写的利用) [#云安全](./云安全/)
-+ [原文传送门](https://landgrey.me/blog/22/) | [本仓库归档](./Java安全/Spring%20Boot%20Fat%20Jar%20写文件漏洞到稳定%20RCE%20的探索.pdf) | Spring Boot Fat Jar 写文件漏洞到稳定 RCE 的探索 [#Java安全](./Java安全/)
 
-+ [原文传送门](https://blog.champtar.fr/K8S_MITM_LoadBalancer_ExternalIPs/) | [本仓库归档](./云安全/Kubernetes%20man%20in%20the%20middle%20using%20LoadBalancer%20or%20ExternalIPs%20(CVE-2020-8554)%20_%20blog.champtar.fr.pdf) | Kubernetes man in the middle using LoadBalancer or ExternalIPs (CVE-2020-8554) [#云安全](./云安全/)
++ [原文传送门](https://www.leavesongs.com/PENETRATION/glassfish-arbitrary-file-reading-vulnerability.html) | [本仓库归档](./Web安全/GlassFish%20目录穿越漏洞测试过程%20_%20离别歌.pdf) | GlassFish 目录穿越漏洞测试过程 - 离别歌 [#Web安全](./Web安全/)
+
++ [原文传送门](https://mp.weixin.qq.com/s/fcuKNfLXiFxWrIYQPq7OCg) | [本仓库归档](./Web安全/UTF-8%20Overlong%20Encoding导致的安全问题.pdf) | UTF-8 Overlong Encoding导致的安全问题 - 代码审计 [#Web安全](./Web安全/)
+
++ [原文传送门](https://mp.weixin.qq.com/s/ul3-Hman7TJwlDDKGBoTXg) | [本仓库归档](./Web安全/Grafana漏洞利用清单.pdf) | 2022 - 2022 Grafana漏洞利用清单 - 微信公众号/小宝的安全学习笔记 [#Web安全](./Web安全/)
+
++ [原文传送门](https://l3yx.github.io/2023/08/06/Grafana-%E5%8E%86%E5%8F%B2%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/) | [本仓库归档](./Web安全/Grafana%20历史漏洞分析%20_%20l3yx's%20blog.pdf) | 2021 - 2022 Grafana 历史漏洞分析 - l3yx blog [#Web安全](./Web安全/)
+
++ [原文传送门](https://start.paloaltonetworks.com/rs/531-OCS-018/images/Unit42_ASM_Threat_Report_2023.pdf) | [本仓库归档](./云安全/Unit42_ASM_Threat_Report_2023.pdf) | 2023 Unit42 ASM Threat Report [#云安全](./云安全/)
+
++ [原文传送门](https://intezer.com/blog/cloud-security/royal-flush-privilege-escalation-vulnerability-in-azure-functions/) | [本仓库归档](./云安全/Privilege%20Escalation%20Vulnerability%20in%20Azure%20Functions%20-%20Intezer.pdf) | Azure 云函数的权限提升漏洞 (非root用户特权容器 容器逃逸) - intezer/Paul Litvak [#云安全](./云安全/)
+
++ [原文传送门](https://fun0nydg.github.io/2021/06/19/The-role-of-debugfs-in-container-escape.html) | [本仓库归档](./云安全/debugfs在容器逃逸中的作用.pdf) | [fadv.c](./云安全/src/c/fadv.c) | debugfs在容器逃逸中的作用 - fun0nydg blog - 以及利用 devices.allow 写文件(网上基本上都是读完就完事了，没有关于写的利用) [#云安全](./云安全/)
+
++ [原文传送门](https://landgrey.me/blog/22/) | [本仓库归档](./Java安全/Spring%20Boot%20Fat%20Jar%20写文件漏洞到稳定%20RCE%20的探索.pdf) | Spring Boot Fat Jar 写文件漏洞到稳定 RCE 的探索 - landgrey blog [#Java安全](./Java安全/)
+
++ [原文传送门](https://blog.champtar.fr/K8S_MITM_LoadBalancer_ExternalIPs/) | [本仓库归档](./云安全/Kubernetes%20man%20in%20the%20middle%20using%20LoadBalancer%20or%20ExternalIPs%20(CVE-2020-8554)%20_%20blog.champtar.fr.pdf) | Kubernetes man in the middle using LoadBalancer or ExternalIPs (CVE-2020-8554) - champtar blog [#云安全](./云安全/)
 
 + [原文传送门](https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/) | [本仓库归档](./云安全/Container%20Escape%20to%20Shadow%20Admin_%20GKE%20Autopilot%20Vulnerabilities.pdf) | [文章视频1](./云安全/static/GKE%20Autopilot%20-%20Pod%20Masquerading%20as%20Datadog%20Agent-0cZJklJxTQk.mp4) | [文章视频2](./云安全/static/GKE%20Autopilot%20-%20Unrestricted%20Administrator%20and%20Invisible%20Backdoor-4Dddhk1QclY.mp4) | Container Escape to Shadow Admin GKE Autopilot Vulnerabilities - Unit42: GKE Autopilot 从容器逃逸到接管k8s集群并持久化后门 [#云安全](./云安全/)
 
-+ [原文传送门](https://www.paloaltonetworks.com/apps/pan/public/downloadResource?pagePath=/content/pan/en_US/resources/whitepapers/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms) | [本仓库归档](./云安全/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms.pdf) | kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms 常见 k8s 引擎RBAC权限滥用调查报告 [#云安全](./云安全/)
++ [原文传送门](https://www.paloaltonetworks.com/apps/pan/public/downloadResource?pagePath=/content/pan/en_US/resources/whitepapers/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms) | [本仓库归档](./云安全/kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms.pdf) | kubernetes-privilege-escalation-excessive-permissions-in-popular-platforms 常见 k8s 引擎RBAC权限滥用调查报告 - Unit42 [#云安全](./云安全/)
 
-+ [原文传送门](https://mp.weixin.qq.com/s/5mO1L5o8j_m6RYM6nO-pAA) | [本仓库归档](./Java安全/第18篇：fastjson反序列化漏洞区分版本号的方法总结.pdf) | 第18篇：fastjson反序列化漏洞区分版本号的方法总结 [#Java安全](./Java安全/)
++ [原文传送门](https://mp.weixin.qq.com/s/5mO1L5o8j_m6RYM6nO-pAA) | [本仓库归档](./Java安全/第18篇：fastjson反序列化漏洞区分版本号的方法总结.pdf) | 第18篇：fastjson反序列化漏洞区分版本号的方法总结 - 希潭实验室 [#Java安全](./Java安全/)
 
 + [原文传送门](https://www.rayanle.cat/potluckctf-2023-hungry-helmsman/) | [本仓库归档](./云安全/37C3%20Potluck%20CTF%20-%20Hungry%20Helmsman.md) | 2023 37C3 Potluck CTF - Hungry Helmsman - k8s ctf 题目 考点主要是 externalIP，因为 pdf 保存出来代码不全，所以手动整了个 md [#云安全](./云安全/)
 
