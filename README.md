@@ -3,7 +3,7 @@
 
 🏷️ 标签 ：[#云安全](./云安全/) [#Java安全](./Java安全/) [#Python安全](./Python安全/) [#中间件安全](./中间件安全/) [#公共组件安全](./公共组件安全/) [#内网安全](./内网安全/) [#协议安全](./协议安全/) [#应急响应](./应急响应/) [#Web安全](./Web安全/)
 
-模板: [原文传送门]() | [本仓库归档]() | 
+📝 模板: [原文传送门]() | [本仓库归档]() | 
 
 ## 2024
 + [原文传送门](https://www.leavesongs.com/PENETRATION/glassfish-arbitrary-file-reading-vulnerability.html) | [本仓库归档](./Web安全/GlassFish%20目录穿越漏洞测试过程%20_%20离别歌.pdf) | Postgresql 渗透总结 - 跳跳糖 [#中间件安全](./中间件安全/)
