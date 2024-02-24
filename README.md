@@ -6,6 +6,9 @@
 模板: [原文传送门]() | [本仓库归档]() | 
 
 ## 2024
++ [原文传送门](https://www.leavesongs.com/PENETRATION/glassfish-arbitrary-file-reading-vulnerability.html) | [本仓库归档](./Web安全/GlassFish%20目录穿越漏洞测试过程%20_%20离别歌.pdf) | Postgresql 渗透总结 - 跳跳糖 [#中间件安全](./中间件安全/)
++ [原文传送门](https://www.leavesongs.com/PENETRATION/glassfish-arbitrary-file-reading-vulnerability.html) | [本仓库归档](./Web安全/GlassFish%20目录穿越漏洞测试过程%20_%20离别歌.pdf) | GlassFish 目录穿越漏洞测试过程 - 离别歌 [#Web安全](./Web安全/)
++ [原文传送门](https://mp.weixin.qq.com/s/fcuKNfLXiFxWrIYQPq7OCg) | [本仓库归档](./Web安全/UTF-8%20Overlong%20Encoding导致的安全问题.pdf) | UTF-8 Overlong Encoding导致的安全问题 - 代码审计 [#Web安全](./Web安全/)
 + [原文传送门](https://mp.weixin.qq.com/s/ul3-Hman7TJwlDDKGBoTXg) | [本仓库归档](./Web安全/Grafana漏洞利用清单.pdf) | 2022 - 2022 Grafana漏洞利用清单 [#Web安全](./Web安全/)
 + [原文传送门](https://l3yx.github.io/2023/08/06/Grafana-%E5%8E%86%E5%8F%B2%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/) | [本仓库归档](./Web安全/Grafana%20历史漏洞分析%20_%20l3yx's%20blog.pdf) | 2021 - 2022 Grafana 历史漏洞分析 [#Web安全](./Web安全/)
 + [原文传送门](https://start.paloaltonetworks.com/rs/531-OCS-018/images/Unit42_ASM_Threat_Report_2023.pdf) | [本仓库归档](./云安全/Unit42_ASM_Threat_Report_2023.pdf) | 2023 Unit42 ASM Threat Report [#云安全](./云安全/)
