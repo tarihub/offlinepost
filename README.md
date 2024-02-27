@@ -6,6 +6,8 @@
 模板: [原文传送门]() | [本仓库归档]() | 
 
 ## 2024
++ [原文传送门](https://www.ndss-symposium.org/wp-content/uploads/2024-31-paper.pdf) | [本仓库归档](./协议安全/2024-31-paper-REQSMINER-%20Automated%20Discovery%20of%20CDN%20%20Forwarding%20Request%20Inconsistencies%20and%20DoS%20Attacks%20%20with%20Grammar-based%20Fuzzing.pdf) | 一种名为 ReqsMiner fuzz 方法：使用基于语法的模糊测试自动发现 CDN 转发请求不一致和 DoS 攻击 [#协议安全](./协议安全/)
+
 + [原文传送门](https://mp.weixin.qq.com/s/ul3-Hman7TJwlDDKGBoTXg) | [本仓库归档](./Web安全/Grafana漏洞利用清单.pdf) | 2022 - 2022 Grafana漏洞利用清单 [#Web安全](./Web安全/)
 + [原文传送门](https://l3yx.github.io/2023/08/06/Grafana-%E5%8E%86%E5%8F%B2%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/) | [本仓库归档](./Web安全/Grafana%20历史漏洞分析%20_%20l3yx's%20blog.pdf) | 2021 - 2022 Grafana 历史漏洞分析 [#Web安全](./Web安全/)
 + [原文传送门](https://start.paloaltonetworks.com/rs/531-OCS-018/images/Unit42_ASM_Threat_Report_2023.pdf) | [本仓库归档](./云安全/Unit42_ASM_Threat_Report_2023.pdf) | 2023 Unit42 ASM Threat Report [#云安全](./云安全/)
