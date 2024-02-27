@@ -6,6 +6,7 @@
 📝 模板 ：[原文传送门]() | [本仓库归档]() | 
 
 ## 2024
+
 + [原文传送门](https://www.ndss-symposium.org/wp-content/uploads/2024-31-paper.pdf) | [本仓库归档](./协议安全/2024-31-paper-REQSMINER-%20Automated%20Discovery%20of%20CDN%20%20Forwarding%20Request%20Inconsistencies%20and%20DoS%20Attacks%20%20with%20Grammar-based%20Fuzzing.pdf) | 一种名为 ReqsMiner fuzz 方法：使用基于语法的模糊测试自动发现 CDN 转发请求不一致和 DoS 攻击 [#协议安全](./协议安全/)
 
 + [原文传送门](https://mp.weixin.qq.com/s/ul3-Hman7TJwlDDKGBoTXg) | [本仓库归档](./Web安全/Grafana漏洞利用清单.pdf) | 2022 - 2022 Grafana漏洞利用清单 [#Web安全](./Web安全/)
@@ -20,7 +21,7 @@
 
 + [原文传送门](https://landgrey.me/blog/22/) | [本仓库归档](./Java安全/Spring%20Boot%20Fat%20Jar%20写文件漏洞到稳定%20RCE%20的探索.pdf) | Spring Boot Fat Jar 写文件漏洞到稳定 RCE 的探索 [#Java安全](./Java安全/)
 
-+ [原文传送门](https://github.com/vulhub/vulhub/tree/master/influxdb/CVE-2019-20933) | [本仓库归档](./中间件安全/InfluxDB%20JWT%20认证绕过漏洞/README.zh-cn.md) | InfluxDB JWT 认证绕过漏洞（CVE-2019-20933）[#中间件安全](./中间件安全/)
++ [原文传送门](https://github.com/vulhub/vulhub/tree/master/influxdb/CVE-2019-20933) | [本仓库归档](./中间件安全/InfluxDB%20JWT%20认证绕过漏洞/README.zh-cn.md) | InfluxDB JWT 认证绕过漏洞（CVE-2019-20933）- vulhub [#中间件安全](./中间件安全/)
 
 + [原文传送门](https://www.leavesongs.com/PENETRATION/glassfish-arbitrary-file-reading-vulnerability.html) | [本仓库归档](./Web安全/GlassFish%20目录穿越漏洞测试过程%20_%20离别歌.pdf) | Postgresql 渗透总结 - 跳跳糖 [#中间件安全](./中间件安全/)
 
