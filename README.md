@@ -6,6 +6,8 @@
 📝 模板 ：[原文传送门]() | [本仓库归档]() | 
 
 ## 2024
++ [原文传送门](https://static.anquanke.com/download/b/security-geek-2019-q4/article-11.html) | [本仓库归档](./协议安全/安全客季刊%20-%20CPDoS：一种新的Web缓存污染攻击.pdf) | CPDoS：一种新的Web缓存污染攻击 [#协议安全](./协议安全/)
+
 + [原文传送门](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/) | [本仓库归档](./云安全/Kubernetes%20Pod%20Escape%20Using%20Log%20Mounts.pdf) | [复现环境和利用代码](./云安全/src/kube-pod-escape-master.zip) |  Kubernetes Pod Escape Using Log Mounts (/var/log) [#云安全](./云安全/)
 
 + [原文传送门](https://www.ndss-symposium.org/wp-content/uploads/2024-31-paper.pdf) | [本仓库归档](./协议安全/2024-31-paper-REQSMINER-%20Automated%20Discovery%20of%20CDN%20%20Forwarding%20Request%20Inconsistencies%20and%20DoS%20Attacks%20%20with%20Grammar-based%20Fuzzing.pdf) | 一种名为 ReqsMiner fuzz 方法：使用基于语法的模糊测试自动发现 CDN 转发请求不一致和 DoS 攻击 [#协议安全](./协议安全/)
