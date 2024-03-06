@@ -6,6 +6,13 @@
 📝 模板 ：[原文传送门]() | [本仓库归档]() | 
 
 ## 2024
++ [原文传送门](https://paper-dragon.github.io/note-book/CVE/CVE-2024-21626%E5%88%A9%E7%94%A8%E5%9C%BA%E6%99%AF.html) | [本仓库归档](./云安全/CVE-2024-21626%20利用场景%20_%20运维开发绿皮书.pdf) | runc 容器逃逸 CVE-2024-21626 利用场景 [#云安全](./云安全/)
+
++ [原文传送门](https://cloud.tencent.com/developer/article/1991900) | [本仓库归档](./Web安全/浏览器同源策略与如何解决跨域问题总结-腾讯云开发者社区-腾讯云.pdf) | 浏览器同源策略与如何解决跨域问题总结 [#Web安全](./Web安全/)
+
++ [原文传送门](https://www.cdxy.me/?p=789) | [本仓库归档](./Web安全/MySQL时间盲注五种延时方法%20(PWNHUB%20非预期解)%20-%20cdxy.pdf) | MySQL时间盲注五种延时方法 (PWNHUB 非预期解) [#Web安全](./Web安全/)
+
++ [原文传送门](https://wooyun.js.org/drops/mXSS%E6%94%BB%E5%87%BB%E7%9A%84%E6%88%90%E5%9B%A0%E5%8F%8A%E5%B8%B8%E8%A7%81%E7%A7%8D%E7%B1%BB.html) | [本仓库归档](./Web安全/mXSS攻击的成因及常见种类%20-%20gainover.pdf) | mXSS攻击的成因及常见种类 [#Web安全](./Web安全/)
 + [原文传送门](https://static.anquanke.com/download/b/security-geek-2019-q4/article-11.html) | [本仓库归档](./协议安全/安全客季刊%20-%20CPDoS：一种新的Web缓存污染攻击.pdf) | CPDoS：一种新的Web缓存污染攻击 [#协议安全](./协议安全/)
 
 + [原文传送门](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/) | [本仓库归档](./云安全/Kubernetes%20Pod%20Escape%20Using%20Log%20Mounts.pdf) | [复现环境和利用代码](./云安全/src/kube-pod-escape-master.zip) |  Kubernetes Pod Escape Using Log Mounts (/var/log) [#云安全](./云安全/)
