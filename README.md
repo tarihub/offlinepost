@@ -8,6 +8,8 @@
 ## 2024
 + [原文传送门](https://mp.weixin.qq.com/s/CnkVVZ0fC7Dtylip205jtQ) | [本仓库归档](./Java安全/红队打点技巧-Shiro%20jrmp内存马利用.pdf) | 红队打点技巧-Shiro jrmp内存马利用 [#Java安全](./Java安全/)
 
++ [原文传送门](https://mp.weixin.qq.com/s/kMmeMusedbd1oeozUrX2gQ) | [本仓库归档](./云安全/runC再曝容器逃逸漏洞.md) | 【云原生攻防研究】— runC再曝容器逃逸漏洞（CVE-2024-21626）[#云安全](./云安全/) 可以和下面这篇一起看方便理解
+
 + [原文传送门](https://paper-dragon.github.io/note-book/CVE/CVE-2024-21626%E5%88%A9%E7%94%A8%E5%9C%BA%E6%99%AF.html) | [本仓库归档](./云安全/CVE-2024-21626%20利用场景%20_%20运维开发绿皮书.pdf) | runc 容器逃逸 CVE-2024-21626 利用场景 [#云安全](./云安全/)
 
 + [原文传送门](https://cloud.tencent.com/developer/article/1991900) | [本仓库归档](./Web安全/浏览器同源策略与如何解决跨域问题总结-腾讯云开发者社区-腾讯云.pdf) | 浏览器同源策略与如何解决跨域问题总结 [#Web安全](./Web安全/)
