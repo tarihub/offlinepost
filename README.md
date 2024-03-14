@@ -6,6 +6,10 @@
 📝 模板 ：[原文传送门]() | [本仓库归档]() | 
 
 ## 2024
++ [原文传送门](https://mp.weixin.qq.com/s/CnkVVZ0fC7Dtylip205jtQ) | [本仓库归档](./Java安全/红队打点技巧-Shiro%20jrmp内存马利用.pdf) | 红队打点技巧-Shiro jrmp内存马利用 [#Java安全](./Java安全/)
+
++ [原文传送门](https://blog.csdn.net/Manuffer/article/details/120672448) | [本仓库归档](./Web安全/命令注入以及常见绕过方式.pdf) | 命令注入以及常见绕过方式 [#Web安全](./Web安全/)
+
 + [原文传送门](https://static.anquanke.com/download/b/security-geek-2019-q4/article-11.html) | [本仓库归档](./协议安全/安全客季刊%20-%20CPDoS：一种新的Web缓存污染攻击.pdf) | CPDoS：一种新的Web缓存污染攻击 [#协议安全](./协议安全/)
 
 + [原文传送门](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/) | [本仓库归档](./云安全/Kubernetes%20Pod%20Escape%20Using%20Log%20Mounts.pdf) | [复现环境和利用代码](./云安全/src/kube-pod-escape-master.zip) |  Kubernetes Pod Escape Using Log Mounts (/var/log) [#云安全](./云安全/)
