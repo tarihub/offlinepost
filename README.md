@@ -6,6 +6,8 @@
 📝 模板 ：[原文传送门]() | [本仓库归档]() | 
 
 ## 2024
++ [原文传送门](https://mp.weixin.qq.com/s/eZGfzdL1w3kf3hwIX1QoKA) | [本仓库归档](./云安全/腾讯云AK_SK无告警登录控制台.pdf) | 腾讯云AK/SK无告警登录控制台 [#云安全](./云安全/)
+
 + [原文传送门](https://mp.weixin.qq.com/s/CnkVVZ0fC7Dtylip205jtQ) | [本仓库归档](./Java安全/红队打点技巧-Shiro%20jrmp内存马利用.pdf) | 红队打点技巧-Shiro jrmp内存马利用 [#Java安全](./Java安全/)
 
 + [原文传送门](https://mp.weixin.qq.com/s/kMmeMusedbd1oeozUrX2gQ) | [本仓库归档](./云安全/runC再曝容器逃逸漏洞.md) | 【云原生攻防研究】— runC再曝容器逃逸漏洞（CVE-2024-21626）[#云安全](./云安全/) 可以和下面这篇一起看方便理解
