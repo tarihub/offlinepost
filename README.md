@@ -6,6 +6,13 @@
 📝 模板 ：[原文传送门]() | [本仓库归档]() | 
 
 ## 2024
+
++ [原文传送门](https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle) | [本仓库归档](.//Web安全/PHP%20filter%20chains_%20file%20read%20from%20error-based%20oracle.pdf) | [利用脚本](./Web安全/static/php_filter_chains_oracle_exploit-main.zip) | PHP FILTER CHAINS: FILE READ FROM ERROR-BASED ORACLE - PHP filter 任意文件读取 trick [#Web安全](./Web安全/)
+
++ [原文传送门](https://xz.aliyun.com/t/8231) | [本仓库归档](./Java安全/从Jenkins%20RCE看Groovy代码注入%20-%20先知社区.pdf) | 从Jenkins RCE看Groovy代码注入 [#Java安全](./Java安全/)
+
++ [原文传送门](https://forum.butian.net/share/1232) | [本仓库归档](./Java安全/奇安信攻防社区-JDWP调试接口RCE漏洞介绍.pdf) | JDWP调试接口RCE漏洞介绍 [#Java安全](./Java安全/)
+
 + [原文传送门](https://mp.weixin.qq.com/s/eZGfzdL1w3kf3hwIX1QoKA) | [本仓库归档](./云安全/腾讯云AK_SK无告警登录控制台.pdf) | 腾讯云AK/SK无告警登录控制台 [#云安全](./云安全/)
 
 + [原文传送门](https://mp.weixin.qq.com/s/CnkVVZ0fC7Dtylip205jtQ) | [本仓库归档](./Java安全/红队打点技巧-Shiro%20jrmp内存马利用.pdf) | 红队打点技巧-Shiro jrmp内存马利用 [#Java安全](./Java安全/)
