@@ -6,6 +6,11 @@
 📝 模板 ：[原文传送门]() | [本仓库归档]() | 
 
 ## 2024
++ [原文传送门](https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/) | [本仓库归档](./公共组件安全/BatBadBut_%20You%20can't%20securely%20execute%20commands%20on%20Windows%20-%20Flatt%20Security%20Research.pdf) | 多种语言 Windows 参数化命令执行命令注入问题 [#公共组件安全](./公共组件安全/)
+
++ [原文传送门](https://blog.hackall.cn/pentestbase/801.html) | [本仓库归档](./协议安全/一文学会MQTT%20-%20Hack%20All%20Sec的博客.pdf) | 一文学会MQTT 安全 [#协议安全](./协议安全/)
+
++ [原文传送门](https://github.com/luelueking/kkFileView-v4.3.0-RCE-POC) | [本仓库归档](./Web安全/kkFileView-v4.3.0-RCE-POC-main.zip) | kkFileView v4.2.0 - v4.3.0  RCE 漏洞 [#Web安全](./Web安全/)
 
 + [原文传送门](https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle) | [本仓库归档](.//Web安全/PHP%20filter%20chains_%20file%20read%20from%20error-based%20oracle.pdf) | [利用脚本](./Web安全/static/php_filter_chains_oracle_exploit-main.zip) | PHP FILTER CHAINS: FILE READ FROM ERROR-BASED ORACLE - PHP filter 任意文件读取 trick [#Web安全](./Web安全/)
 
