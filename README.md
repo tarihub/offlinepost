@@ -6,6 +6,7 @@
 📝 模板 ：[原文传送门]() | [本仓库归档]() | 
 
 ## 2024
++ [原文传送门](https://security.tencent.com/index.php/blog/msg/179) | [本仓库归档](./Web安全/SSRF安全指北%20-%20博客%20-%20腾讯安全应急响应中心.pdf) | SSRF安全指北 - 从产品层面对 SSRF 的修复和绕过很有借鉴意义
 + [原文传送门](https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/) | [本仓库归档](./公共组件安全/BatBadBut_%20You%20can't%20securely%20execute%20commands%20on%20Windows%20-%20Flatt%20Security%20Research.pdf) | 多种语言 Windows 参数化命令执行命令注入问题 [#公共组件安全](./公共组件安全/)
 
 + [原文传送门](https://blog.hackall.cn/pentestbase/801.html) | [本仓库归档](./协议安全/一文学会MQTT%20-%20Hack%20All%20Sec的博客.pdf) | 一文学会MQTT 安全 [#协议安全](./协议安全/)
